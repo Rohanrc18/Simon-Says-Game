@@ -1,0 +1,41 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: end;
+    padding-right: 20%;
+}
+.container1,.container2{
+    /* border:2px solid black; */
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    height:200px;
+    width:200px;
+    border:5px solid black;
+    border-radius: 50px;
+    margin:10px;
+}
+.box1{
+    background-color:rgb(109,153,95);
+}
+.box2{
+    background-color: rgb(18,102,132);
+}.box3{
+    background-color: rgb(184,94,103);
+}.box4{
+    background-color: rgb(150,111,165);
+}
+
+.flash{
+    background-color: rgb(255, 254, 254);
+}
